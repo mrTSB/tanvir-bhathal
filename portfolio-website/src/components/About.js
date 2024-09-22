@@ -1,12 +1,12 @@
 import React from 'react';
 
-const About = () => {
+function About() {
     return (
-        <main>
+        <div>
             <h2>About Me</h2>
-            <p>Your personal story and background.</p>
-        </main>
+            <p>Information about my background and skills.</p>
+        </div>
     );
-};
+}
 
 export default About;

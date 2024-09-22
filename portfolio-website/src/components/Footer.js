@@ -1,11 +1,12 @@
 import React from 'react';
 
-const Footer = () => {
+function Footer() {
     return (
         <footer>
-            <p>&copy; 2023 Your Name</p>
+            <p>Contact me at: email@example.com</p>
+            <p>Follow me on social media!</p>
         </footer>
     );
-};
+}
 
 export default Footer;

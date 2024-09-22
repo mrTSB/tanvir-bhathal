@@ -1,12 +1,12 @@
 import React from 'react';
 
-const Education = () => {
+function Education() {
     return (
-        <main>
+        <div>
             <h2>Education</h2>
-            <p>Your academic history at Stanford University.</p>
-        </main>
+            <p>Information about my educational background.</p>
+        </div>
     );
-};
+}
 
 export default Education;

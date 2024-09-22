@@ -1,12 +1,12 @@
 import React from 'react';
 
-const Experience = () => {
+function Experience() {
     return (
-        <main>
-            <h2>Work Experience</h2>
-            <p>Your work experience and internships.</p>
-        </main>
+        <div>
+            <h2>Experience</h2>
+            <p>Details about my work experience and projects.</p>
+        </div>
     );
-};
+}
 
 export default Experience;
