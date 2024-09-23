@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tanvir-bhathal/static/css/main.bf56fb87.css",
-    "main.js": "/tanvir-bhathal/static/js/main.7583c76c.js",
+    "main.css": "/tanvir-bhathal/static/css/main.0a998bec.css",
+    "main.js": "/tanvir-bhathal/static/js/main.c68efbb9.js",
     "static/js/453.aac68abc.chunk.js": "/tanvir-bhathal/static/js/453.aac68abc.chunk.js",
     "index.html": "/tanvir-bhathal/index.html",
-    "main.bf56fb87.css.map": "/tanvir-bhathal/static/css/main.bf56fb87.css.map",
-    "main.7583c76c.js.map": "/tanvir-bhathal/static/js/main.7583c76c.js.map",
+    "main.0a998bec.css.map": "/tanvir-bhathal/static/css/main.0a998bec.css.map",
+    "main.c68efbb9.js.map": "/tanvir-bhathal/static/js/main.c68efbb9.js.map",
     "453.aac68abc.chunk.js.map": "/tanvir-bhathal/static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf56fb87.css",
-    "static/js/main.7583c76c.js"
+    "static/css/main.0a998bec.css",
+    "static/js/main.c68efbb9.js"
   ]
 }
